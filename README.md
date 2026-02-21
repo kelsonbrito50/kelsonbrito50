@@ -20,15 +20,10 @@ Full Stack Developer with professional experience building and maintaining **pro
 - 🏢 **Full Stack Dev @ BabyHappy** — e-commerce platform (Python, Django, PostgreSQL, Docker)
 - 🚀 **Founder @ ECOMMDEV** — 13-module enterprise Django platform, 6-container Docker architecture
 - 🔐 Security-focused: OWASP-compliant systems, Cloudflare WAF, JWT authentication
-- 🌱 **Software Engineering B.S.** @ UNINTER Brazil *(started Feb 2026)*
-- 🎓 **UCSD Front-End Certificate** *(4/5 done)*
-  - ✅ Intro to Front End Technologies · ✅ Intro to HTML & CSS · ✅ Intro to JavaScript · ✅ React
-  - ⏳ Advanced HTML & CSS *(starts Mar 31, 2026)*
-- 🎯 **Meta Back-End Developer** — Coursera/Meta *(5/9 courses completed)*
-- ☕ **Java Programming Certificate** — UCSD Extension *(starts Mar 24, 2026)*
-  - Java I: Fundamentals → Java II: Core → Java III: Intermediate → Java IV: Advanced
+- 🌱 Currently studying: **Software Engineering B.S.** @ UNINTER + **UCSD Extension** certifications
+- 🎯 Pursuing: **Meta Back-End Developer Certificate** (5/9 courses), **Java** (UCSD, Mar 2026)
 - 💬 Languages: **English** (Fluent) · **Portuguese** (Native) · **Spanish** (Fluent)
-- 📍 Brazil · Available for **full remote** positions
+- 📍 United States · Available for **full remote** positions
 
 ---
 
@@ -131,8 +126,14 @@ Full Stack Developer with professional experience building and maintaining **pro
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kelsonbrito50&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonbrito50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelsonbrito50&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelsonbrito50&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelsonbrito50&theme=tokyonight" />
 
 </div>
 
@@ -163,9 +164,9 @@ Full Stack Developer with professional experience building and maintaining **pro
 | Certificate | Institution | Status |
 |---|---|---|
 | Software Engineering B.S. | UNINTER Brazil | 🟡 In Progress |
-| Front-End Development | UCSD Extension | 🟢 4/5 Complete · React ✅ |
+| Front-End Development | UCSD Extension | 🟡 In Progress |
 | Meta Back-End Developer | Coursera / Meta | 🟡 5/9 Courses |
-| Java Programming (4 courses) | UCSD Extension | 🔜 Starts Mar 24, 2026 |
+| Java Programming | UCSD Extension | 🔜 Mar 2026 |
 
 ---
 
