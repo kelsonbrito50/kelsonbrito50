@@ -1,8 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full-Stack+Developer+%7C+Python+%26+React;Building+Scalable+Web+Applications;Founder+%40+ECOMMDEV)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kelson+Brito+%F0%9F%91%8B;Full+Stack+Developer;Python+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+TypeScript;Building+Scalable+Web+Apps;Open+to+Remote+Opportunities" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=kelsonbrito50&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelson-brito-ba922b363/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelsonbrito50)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelsonbrito50@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=kelsonbrito50&style=for-the-badge&color=2563eb)](https://github.com/kelsonbrito50)
 
 </div>
 
@@ -10,46 +15,110 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Kelson Brito**, a Full-Stack Developer and Founder of **ECOMMDEV**, a web development agency focused on building enterprise-grade applications. I specialize in crafting robust back-end systems with **Django** and modern front-ends with **React**, always with security and scalability in mind.
+Full Stack Developer with professional experience building and maintaining **production-grade web applications**. Specialized in Python/Django backend architecture with React/TypeScript frontends, Docker containerization, and CI/CD pipelines.
 
-- 🔭 Currently building: **SecurePass Dashboard** & **ECOMMDEV Platform**
-- 🌱 Expanding into: **Java** (March 2026) & **Cybersecurity**
-- 🎓 Pursuing: **Software Engineering BS** (UNINTER) · **Meta Back-End Developer** (Coursera) · **Front-End Development** (UCSD Extension) · **Java Programming** (UCSD Extension)
-- 🌍 Languages: 🇧🇷 Portuguese (Native) · 🇺🇸 English (Fluent) · 🇪🇸 Spanish (Fluent)
+- 🏢 **Full Stack Dev @ BabyHappy** — e-commerce platform (Python, Django, PostgreSQL, Docker)
+- 🚀 **Founder @ ECOMMDEV** — 13-module enterprise Django platform, 6-container Docker architecture
+- 🔐 Security-focused: OWASP-compliant systems, Cloudflare WAF, JWT authentication
+- 🌱 Currently studying: **Software Engineering B.S.** @ UNINTER + **UCSD Extension** certifications
+- 🎯 Pursuing: **Meta Back-End Developer Certificate** (5/9 courses), **Java** (UCSD, Mar 2026)
+- 💬 Languages: **English** (Fluent) · **Portuguese** (Native) · **Spanish** (Fluent)
+- 📍 United States · Available for **full remote** positions
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+**Backend**
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+**Frontend**
 
-**Back-End**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+**Databases**
 
-**Front-End**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**DevOps & Cloud**
 
-**Database & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Tools**
 
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [SecurePass Dashboard](https://github.com/kelsonbrito50/securepass-dashboard)
+> Password security platform with breach detection and analytics
+
+![Django](https://img.shields.io/badge/Django-REST-092E20?style=flat-square&logo=django)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
+
+- Password strength analyzer + HIBP breach detection (k-anonymity)
+- JWT authentication, Chart.js visualizations, full test suite
+- Dockerized with GitHub Actions CI/CD pipeline
+
+---
+
+### ⚡ [DevStack Analyzer](https://github.com/kelsonbrito50/devstack-analyzer)
+> Real-time developer stack analysis tool
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+- FastAPI backend + React/TypeScript frontend
+- Real-time stack insights for developer teams
+
+---
+
+### 🏢 [ECOMMDEV Platform](https://github.com/kelsonbrito50/ecommdev-demo)
+> Enterprise-grade 13-module Django platform
+
+![Django](https://img.shields.io/badge/Django-4.2-092E20?style=flat-square&logo=django)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![Docker](https://img.shields.io/badge/6_Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+- 13-module architecture: auth, billing, analytics, inventory & more
+- 6-container Docker setup (web, db, redis, celery, celery-beat, nginx)
+- OWASP-compliant security · MercadoPago · AWS S3 · CI/CD
+
+---
+
+### 🎮 [DevTasker](https://github.com/kelsonbrito50/DevTasker)
+> Gamified task management for developers
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- Points, streaks, and milestone tracking system for dev productivity
 
 ---
 
@@ -57,70 +126,48 @@ I'm **Kelson Brito**, a Full-Stack Developer and Founder of **ECOMMDEV**, a web 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kelsonbrito50&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelsonbrito50&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonbrito50&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kelsonbrito50&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonbrito50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/kelsonbrito50/securepass-dashboard">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kelsonbrito50&repo=securepass-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<a href="https://github.com/kelsonbrito50/DevTasker">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kelsonbrito50&repo=DevTasker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-
-<a href="https://github.com/kelsonbrito50/vehicle-maintenance-tracker">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kelsonbrito50&repo=vehicle-maintenance-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<a href="https://github.com/kelsonbrito50/devstack-analyzer">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kelsonbrito50&repo=devstack-analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kelsonbrito50&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **SecurePass Dashboard** | Secure password management with role-based access control | Django · React · JWT |
-| **DevTasker** | Task management app with gamification for recruiters | Python · React · PostgreSQL |
-| **Vehicle Tracker** | React CRUD app for vehicle maintenance records | React · localStorage |
-| **DevStack Analyzer** | Analyze and visualize project tech stacks automatically | FastAPI · React · Docker |
-
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kelsonbrito50&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kelsonbrito50/kelsonbrito50/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kelsonbrito50/kelsonbrito50/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/kelsonbrito50/kelsonbrito50/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kelsonbrito50/kelsonbrito50/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kelsonbrito50/kelsonbrito50/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/kelsonbrito50/kelsonbrito50/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelsonbrito)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelsonbrito50)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelsonbrito50@gmail.com)
 
 </div>
 
 ---
 
+## 🎓 Education & Certifications
+
+| Certificate | Institution | Status |
+|---|---|---|
+| Software Engineering B.S. | UNINTER Brazil | 🟡 In Progress |
+| Front-End Development | UCSD Extension | 🟡 In Progress |
+| Meta Back-End Developer | Coursera / Meta | 🟡 5/9 Courses |
+| Java Programming | UCSD Extension | 🔜 Mar 2026 |
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
+**Open to remote opportunities · EN · PT · ES**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelson-brito-ba922b363/)
 
 </div>
