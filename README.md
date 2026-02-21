@@ -21,9 +21,12 @@ Full Stack Developer with professional experience building and maintaining **pro
 - 🚀 **Founder @ ECOMMDEV** — 13-module enterprise Django platform, 6-container Docker architecture
 - 🔐 Security-focused: OWASP-compliant systems, Cloudflare WAF, JWT authentication
 - 🌱 **Software Engineering B.S.** @ UNINTER Brazil *(started Feb 2026)*
-- 🎓 **UCSD Front-End Certificate** — 4/5 done *(React ✅ · Advanced HTML/CSS starts Mar 31)*
-- 🎯 **Meta Back-End Developer** — Coursera/Meta *(5/9 courses)*
-- ☕ **Java Programming Certificate** — UCSD Extension *(4 courses · starts Mar 24, 2026)*
+- 🎓 **UCSD Front-End Certificate** *(4/5 done)*
+  - ✅ Intro to Front End Technologies · ✅ Intro to HTML & CSS · ✅ Intro to JavaScript · ✅ React
+  - ⏳ Advanced HTML & CSS *(starts Mar 31, 2026)*
+- 🎯 **Meta Back-End Developer** — Coursera/Meta *(5/9 courses completed)*
+- ☕ **Java Programming Certificate** — UCSD Extension *(starts Mar 24, 2026)*
+  - Java I: Fundamentals → Java II: Core → Java III: Intermediate → Java IV: Advanced
 - 💬 Languages: **English** (Fluent) · **Portuguese** (Native) · **Spanish** (Fluent)
 - 📍 Brazil · Available for **full remote** positions
 
