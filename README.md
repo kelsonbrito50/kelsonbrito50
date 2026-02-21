@@ -71,35 +71,36 @@ Full Stack Developer with professional experience building and maintaining **pro
 
 ## 🚀 Featured Projects
 
+### 🎯 [HireMe AI](https://github.com/kelsonbrito50/hireme-ai) · [🔗 Live Demo](https://hireme-ai-rust.vercel.app)
+> AI-powered job tracker with skill matching & cover letter generation
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Neon_DB-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+- GPT-4 analyzes job descriptions → match score (0–100) + skill extraction
+- AI-generated tailored cover letters in seconds
+- GitHub OAuth, Prisma ORM, CI/CD, Docker — fully deployed on Vercel
+
+---
+
 ### 🔐 [SecurePass Dashboard](https://github.com/kelsonbrito50/securepass-dashboard)
-> Password security platform with breach detection and analytics
+> Full-stack password security platform with real-time breach detection
 
 ![Django](https://img.shields.io/badge/Django-REST-092E20?style=flat-square&logo=django)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
 
-- Password strength analyzer + HIBP breach detection (k-anonymity)
-- JWT authentication, Chart.js visualizations, full test suite
+- HIBP breach detection via k-anonymity (privacy-preserving)
+- JWT authentication, Chart.js dashboards, full test suite
 - Dockerized with GitHub Actions CI/CD pipeline
 
 ---
 
-### ⚡ [DevStack Analyzer](https://github.com/kelsonbrito50/devstack-analyzer)
-> Real-time developer stack analysis tool
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-- FastAPI backend + React/TypeScript frontend
-- Real-time stack insights for developer teams
-
----
-
-### 🏢 [ECOMMDEV Platform](https://github.com/kelsonbrito50/ecommdev-demo)
-> Enterprise-grade 13-module Django platform
+### 🏢 [ECOMMDEV Platform](https://github.com/kelsonbrito50/ecommdev-demo) · [🔗 Live Site](https://www.ecommdev.com.br)
+> Enterprise-grade 13-module Django platform — demo version
 
 ![Django](https://img.shields.io/badge/Django-4.2-092E20?style=flat-square&logo=django)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
@@ -112,14 +113,17 @@ Full Stack Developer with professional experience building and maintaining **pro
 
 ---
 
-### 🎮 [DevTasker](https://github.com/kelsonbrito50/DevTasker)
-> Gamified task management for developers
+### 🛒 [BabyHappy E-commerce](https://babyhappyjp.com.br) *(Production · Private Repo)*
+> Production e-commerce platform for Brazilian baby products company
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Points, streaks, and milestone tracking system for dev productivity
+- Cielo payment gateway for live credit card transactions in production
+- Cloudflare WAF, DDoS protection, SSL — 99%+ uptime
+- Full-stack: Django backend + responsive HTML/CSS/JS frontend
 
 ---
 
