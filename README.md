@@ -14,7 +14,7 @@ I'm **Kelson Brito**, a Full-Stack Developer and Founder of **ECOMMDEV**, a web 
 
 - 🔭 Currently building: **SecurePass Dashboard** & **ECOMMDEV Platform**
 - 🌱 Expanding into: **Java** (March 2026) & **Cybersecurity**
-- 🎓 Pursuing: **Software Engineering BS** (UNINTER) · **Meta Back-End Developer** (Coursera) · **Java Programming** (UCSD Extension)
+- 🎓 Pursuing: **Software Engineering BS** (UNINTER) · **Meta Back-End Developer** (Coursera) · **Front-End Development** (UCSD Extension) · **Java Programming** (UCSD Extension)
 - 🌍 Languages: 🇧🇷 Portuguese (Native) · 🇺🇸 English (Fluent) · 🇪🇸 Spanish (Fluent)
 
 ---
