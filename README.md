@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kelson+Brito+%F0%9F%91%8B;Full+Stack+Developer;Python+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+TypeScript;Building+Scalable+Web+Apps;Open+to+Remote+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kelson+Brito+%F0%9F%91%8B;Full+Stack+Developer;Python+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+TypeScript;Open+to+Remote+Opportunities+%F0%9F%8C%8D;Building+Production+Web+Apps" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,8 @@ Full Stack Developer with professional experience building and maintaining **pro
 - 🌱 Currently studying: **Software Engineering B.S.** @ UNINTER + **UCSD Extension** certifications
 - 🎯 Pursuing: **Meta Back-End Developer Certificate** (5/9 courses), **Java** (UCSD, Mar 2026)
 - 💬 Languages: **English** (Fluent) · **Portuguese** (Native) · **Spanish** (Fluent)
-- 📍 United States · Available for **full remote** positions
+- 🚀 **Live project:** [HireMe AI](https://hireme-ai-rust.vercel.app) — AI job tracker (Next.js + GPT-4 + TypeScript)
+- 📍 Brazil · Available for **full remote** positions
 
 ---
 
@@ -163,10 +164,11 @@ Full Stack Developer with professional experience building and maintaining **pro
 
 | Certificate | Institution | Status |
 |---|---|---|
-| Software Engineering B.S. | UNINTER Brazil | 🟡 In Progress |
-| Front-End Development | UCSD Extension | 🟡 In Progress |
-| Meta Back-End Developer | Coursera / Meta | 🟡 5/9 Courses |
-| Java Programming | UCSD Extension | 🔜 Mar 2026 |
+| Software Engineering B.S. | UNINTER Brazil | 🟡 In Progress (Feb 2026) |
+| Front-End Development | UCSD Extension | 🟢 4/5 Done · React ✅ HTML/CSS ✅ JS ✅ |
+| Meta Back-End Developer | Coursera / Meta | 🟡 5/9 Courses Complete |
+| Java Programming (I→IV) | UCSD Extension | 🔜 Starts Mar 24, 2026 |
+| Cybersecurity | UCSD Extension | 🔜 After Java |
 
 ---
 
