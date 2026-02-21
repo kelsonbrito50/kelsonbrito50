@@ -128,6 +128,17 @@ Full Stack Developer with professional experience building and maintaining **pro
 
 ---
 
+## 🔨 Currently Building
+
+| Project | Status | Stack |
+|---------|--------|-------|
+| [HireMe AI](https://hireme-ai-rust.vercel.app) | 🟢 Live — adding Google OAuth + dark mode | Next.js · GPT-4 · TypeScript |
+| [SecurePass Dashboard](https://github.com/kelsonbrito50/securepass-dashboard) | 🔄 Deploying backend to Railway | Django · React · JWT |
+| [BabyHappy E-commerce](https://babyhappyjp.com.br) | 🟢 Production | Django · Cielo · Cloudflare |
+| Java Programming (UCSD) | 🔜 Starts Mar 24, 2026 | Java I → IV |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
