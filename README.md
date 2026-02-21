@@ -23,7 +23,7 @@ Full Stack Developer with professional experience building and maintaining **pro
 - 🌱 Currently studying: **Software Engineering B.S.** @ UNINTER + **UCSD Extension** certifications
 - 🎯 Pursuing: **Meta Back-End Developer Certificate** (5/9 courses), **Java** (UCSD, Mar 2026)
 - 💬 Languages: **English** (Fluent) · **Portuguese** (Native) · **Spanish** (Fluent)
-- 📍 United States · Available for **full remote** positions
+- 📍 Brazil · Available for **full remote** positions
 
 ---
 
