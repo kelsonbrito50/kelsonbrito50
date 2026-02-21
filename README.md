@@ -20,8 +20,10 @@ Full Stack Developer with professional experience building and maintaining **pro
 - 🏢 **Full Stack Dev @ BabyHappy** — e-commerce platform (Python, Django, PostgreSQL, Docker)
 - 🚀 **Founder @ ECOMMDEV** — 13-module enterprise Django platform, 6-container Docker architecture
 - 🔐 Security-focused: OWASP-compliant systems, Cloudflare WAF, JWT authentication
-- 🌱 Currently studying: **Software Engineering B.S.** @ UNINTER + **UCSD Extension** certifications
-- 🎯 Pursuing: **Meta Back-End Developer Certificate** (5/9 courses), **Java** (UCSD, Mar 2026)
+- 🌱 **Software Engineering B.S.** @ UNINTER Brazil *(started Feb 2026)*
+- 🎓 **UCSD Front-End Certificate** — 4/5 done *(React ✅ · Advanced HTML/CSS starts Mar 31)*
+- 🎯 **Meta Back-End Developer** — Coursera/Meta *(5/9 courses)*
+- ☕ **Java Programming Certificate** — UCSD Extension *(4 courses · starts Mar 24, 2026)*
 - 💬 Languages: **English** (Fluent) · **Portuguese** (Native) · **Spanish** (Fluent)
 - 📍 Brazil · Available for **full remote** positions
 
