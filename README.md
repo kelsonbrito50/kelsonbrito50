@@ -158,7 +158,7 @@ Full Stack Developer with professional experience building and maintaining **pro
 | Certificate | Institution | Status |
 |---|---|---|
 | Software Engineering B.S. | UNINTER Brazil | 🟡 In Progress |
-| Front-End Development | UCSD Extension | 🟡 In Progress |
+| Front-End Development | UCSD Extension | 🟢 4/5 Complete · React ✅ |
 | Meta Back-End Developer | Coursera / Meta | 🟡 5/9 Courses |
 | Java Programming | UCSD Extension | 🔜 Mar 2026 |
 
