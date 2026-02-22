@@ -24,7 +24,7 @@ Full Stack Developer with professional experience building and maintaining **pro
 - 🌱 Currently studying: **Software Engineering B.S.** @ UNINTER + **UCSD Extension** certifications
 - 🎯 Pursuing: **Meta Back-End Developer Certificate** (5/9 courses), **Java** (UCSD, Mar 2026)
 - 💬 Languages: **English** (Fluent) · **Portuguese** (Native) · **Spanish** (Fluent)
-- 🚀 **Live project:** [HireMe AI](https://hireme-ai-rust.vercel.app) — AI job tracker (Next.js + GPT-4 + TypeScript)
+- 🚀 **Live projects:** [HireMe AI](https://hireme-ai-rust.vercel.app) (Next.js + GPT-4) · [SecurePass](https://kelsonbrito50.github.io/securepass-dashboard) (Django + React)
 - 📍 Brazil · Available for **full remote** positions
 
 ---
@@ -93,10 +93,11 @@ Full Stack Developer with professional experience building and maintaining **pro
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-- HIBP breach detection via k-anonymity (privacy-preserving)
-- JWT authentication, Chart.js dashboards, full test suite
-- Dockerized with GitHub Actions CI/CD pipeline
+- HIBP breach detection via k-anonymity (privacy-preserving) — [🔗 Live Demo](https://kelsonbrito50.github.io/securepass-dashboard)
+- Django REST backend on Railway · PostgreSQL · JWT authentication · Chart.js dashboards
+- GitHub Actions CI/CD — auto-deploy frontend to GitHub Pages + backend to Railway
 
 ---
 
