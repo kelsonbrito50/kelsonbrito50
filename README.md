@@ -184,7 +184,6 @@ Full Stack Developer with professional experience building and maintaining **pro
 | Front-End Development | UCSD Extension | 🟢 4/5 Done · React ✅ HTML/CSS ✅ JS ✅ |
 | Meta Back-End Developer | Coursera / Meta | 🟡 5/9 Courses Complete |
 | Java Programming (I→IV) | UCSD Extension | 🔜 Starts Mar 24, 2026 |
-| Cybersecurity | UCSD Extension | 🔜 After Java |
 
 ---
 
