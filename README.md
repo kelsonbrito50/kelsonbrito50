@@ -115,7 +115,7 @@ Full Stack Developer with professional experience building and maintaining **pro
 
 ---
 
-### 🛒 [BabyHappy E-commerce](https://babyhappyjp.com.br) *(Production · Private Repo)*
+### 🛒 [BabyHappy E-commerce](https://github.com/kelsonbrito50/babyhappy-ecommerce-demo) · [🔗 Live Site](https://babyhappyjp.com.br) *(Demo Repo · Production)*
 > Production e-commerce platform for Brazilian baby products company
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -136,7 +136,7 @@ Full Stack Developer with professional experience building and maintaining **pro
 | [HireMe AI](https://hireme-ai-rust.vercel.app) | 🟢 Live — export CSV + cover letter generation | Next.js · GPT-4 · TypeScript |
 | [SecurePass Dashboard](https://github.com/kelsonbrito50/securepass-dashboard) | 🟢 Live — Railway backend + GitHub Pages | Django · React · JWT |
 | [ECOMMDEV Platform](https://www.ecommdev.com.br) | 🟢 Live — enterprise Django demo | Django · Redis · Docker · AWS |
-| [BabyHappy E-commerce](https://babyhappyjp.com.br) | 🟢 Production | Django · Cielo · Cloudflare |
+| [BabyHappy E-commerce](https://github.com/kelsonbrito50/babyhappy-ecommerce-demo) | 🟢 Production | Django · Cielo · Cloudflare |
 
 ---
 
