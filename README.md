@@ -135,6 +135,7 @@ Full Stack Developer with professional experience building and maintaining **pro
 |---------|--------|-------|
 | [HireMe AI](https://hireme-ai-rust.vercel.app) | 🟢 Live — export CSV + cover letter generation | Next.js · GPT-4 · TypeScript |
 | [SecurePass Dashboard](https://github.com/kelsonbrito50/securepass-dashboard) | 🟢 Live — Railway backend + GitHub Pages | Django · React · JWT |
+| [ECOMMDEV Platform](https://www.ecommdev.com.br) | 🟢 Live — enterprise Django demo |
 | [BabyHappy E-commerce](https://babyhappyjp.com.br) | 🟢 Production | Django · Cielo · Cloudflare |
 
 ---
