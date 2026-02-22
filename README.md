@@ -140,6 +140,16 @@ Full Stack Developer with professional experience building and maintaining **pro
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kelsonbrito50&theme=tokyonight&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -152,12 +162,6 @@ Full Stack Developer with professional experience building and maintaining **pro
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelsonbrito50&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelsonbrito50&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kelsonbrito50&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
