@@ -86,7 +86,7 @@ Full Stack Developer with professional experience building and maintaining **pro
 
 ---
 
-### 🔐 [SecurePass Dashboard](https://github.com/kelsonbrito50/securepass-dashboard)
+### 🔐 [SecurePass Dashboard](https://github.com/kelsonbrito50/securepass-dashboard) · [🔗 Live Demo](https://kelsonbrito50.github.io/securepass-dashboard)
 > Full-stack password security platform with real-time breach detection
 
 ![Django](https://img.shields.io/badge/Django-REST-092E20?style=flat-square&logo=django)
@@ -132,8 +132,8 @@ Full Stack Developer with professional experience building and maintaining **pro
 
 | Project | Status | Stack |
 |---------|--------|-------|
-| [HireMe AI](https://hireme-ai-rust.vercel.app) | 🟢 Live — adding Google OAuth + dark mode | Next.js · GPT-4 · TypeScript |
-| [SecurePass Dashboard](https://github.com/kelsonbrito50/securepass-dashboard) | 🔄 Deploying backend to Railway | Django · React · JWT |
+| [HireMe AI](https://hireme-ai-rust.vercel.app) | 🟢 Live — export CSV + cover letter generation | Next.js · GPT-4 · TypeScript |
+| [SecurePass Dashboard](https://github.com/kelsonbrito50/securepass-dashboard) | 🟢 Live — Railway backend + GitHub Pages | Django · React · JWT |
 | [BabyHappy E-commerce](https://babyhappyjp.com.br) | 🟢 Production | Django · Cielo · Cloudflare |
 | Java Programming (UCSD) | 🔜 Starts Mar 24, 2026 | Java I → IV |
 
