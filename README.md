@@ -37,6 +37,15 @@ Full Stack Developer · Python/Django + React/TypeScript · Building production 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
+
+---
+
+## 📈 Currently Learning
+
+- 🤖 **LLM integrations** — building AI-powered developer tools
+- ☸️ **Kubernetes** — container orchestration at scale
+- 📊 **Data Engineering** — pipelines with Apache Airflow
+
 ---
 
 ## 🚀 Projects
