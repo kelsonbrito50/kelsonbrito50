@@ -40,11 +40,20 @@ Full Stack Developer · Python/Django + React/TypeScript · Building production 
 
 ---
 
+## 🎓 Certifications
+
+| Certificate | Provider | Status |
+|-------------|----------|--------|
+| Front-End Development (5 courses) | UCSD Extension | 🟡 4/5 Complete |
+| Meta Back-End Developer (9 courses) | Meta / Coursera | 🟡 6/9 Complete |
+| Software Engineering B.S. | UNINTER Brazil | 🟡 In Progress |
+| Java Programming (4 courses) | UCSD Extension | ⏳ Starts Mar 2026 |
+
 ## 📈 Currently Learning
 
+- 🔙 **Meta Back-End Certificate** — Django REST, APIs, Full Stack (6/9 done!)
 - 🤖 **LLM integrations** — building AI-powered developer tools
 - ☸️ **Kubernetes** — container orchestration at scale
-- 📊 **Data Engineering** — pipelines with Apache Airflow
 
 ---
 
