@@ -98,6 +98,17 @@ Production e-commerce for Brazilian baby products. Live credit card payments.
 | 🌟 **Starstruck** | Created a repository with many stars |
 
 ---
+
+## 🤝 Open Source Contributions
+
+I believe in giving back to the community. Here's how I contribute:
+
+- 🛠️ **Active maintainer** of my own open-source projects
+- 📝 **Documentation** improvements and bug fixes
+- 🐛 **Bug reports** and issue triage
+- ⭐ Supporting projects I use daily
+
+---
 <div align="center">
 
 **Open to remote opportunities · EN · PT · ES**
