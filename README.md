@@ -15,35 +15,28 @@
 ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Turning code into working products since day one. Full-stack, multilingual, remote-ready.
+> Turning code into working products since day one. Full-stack, multilingual, remote-ready.
 
 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Fluent)
 
 ## Current Projects
 
-🛒 **[BabyHappy](https://babyhappyjp.com.br)** — Production e-commerce processing real Cielo credit card payments. Django + Docker + PostgreSQL + Cloudflare WAF. ([Code](https://github.com/kelsonbrito50/babyhappy-ecommerce))
-
-🏢 **[ECOMMDEV](https://www.ecommdev.com.br)** — 13-module enterprise Django platform. 6-container Docker architecture, Celery + Redis async, MercadoPago payments, OWASP-compliant. ([Code](https://github.com/kelsonbrito50/ecommdev-platform))
-
-🎯 **[HireMe AI](https://hireme-ai-rust.vercel.app)** — AI-powered job tracker with GPT-4 skill matching & cover letter generation. Next.js 14 + TypeScript + Prisma + Neon. ([Code](https://github.com/kelsonbrito50/hireme-ai))
-
-🔐 **[SecurePass](https://kelsonbrito50.github.io/securepass-dashboard)** — Password security platform with real breach detection via HIBP (k-anonymity). Django REST + React 18 + Chart.js + JWT. ([Code](https://github.com/kelsonbrito50/securepass-dashboard))
+- 🛒 **[BabyHappy](https://babyhappyjp.com.br)** — Production e-commerce processing real Cielo credit card payments. Django + Docker + PostgreSQL + Cloudflare WAF. ([Code](https://github.com/kelsonbrito50/babyhappy-ecommerce))
+- 🏢 **[ECOMMDEV](https://www.ecommdev.com.br)** — 13-module enterprise Django platform. 6-container Docker architecture, Celery + Redis async, MercadoPago payments, OWASP-compliant. ([Code](https://github.com/kelsonbrito50/ecommdev-platform))
+- 🎯 **[HireMe AI](https://hireme-ai-rust.vercel.app)** — AI-powered job tracker with GPT-4 skill matching & cover letter generation. Next.js 14 + TypeScript + Prisma + Neon. ([Code](https://github.com/kelsonbrito50/hireme-ai))
+- 🔐 **[SecurePass](https://kelsonbrito50.github.io/securepass-dashboard)** — Password security platform with real breach detection via HIBP (k-anonymity). Django REST + React 18 + Chart.js + JWT. ([Code](https://github.com/kelsonbrito50/securepass-dashboard))
 
 ## Learning & Study
 
-⚛️ **[React Patterns](https://github.com/kelsonbrito50/react-patterns)** — Production patterns: Custom Hooks, Compound Components, Error Boundaries, Lazy Loading
-
-🧠 **[Python DSA](https://github.com/kelsonbrito50/python-dsa)** — 20+ algorithms, 40+ tests — interview prep with complexity analysis
+- ⚛️ **[React Patterns](https://github.com/kelsonbrito50/react-patterns)** — Production patterns: Custom Hooks, Compound Components, Error Boundaries, Lazy Loading
+- 🧠 **[Python DSA](https://github.com/kelsonbrito50/python-dsa)** — 20+ algorithms, 40+ tests — interview prep with complexity analysis
 
 ## Certifications
 
-✅ **Meta Back-End Developer** — Professional Certificate
-
-✅ **UCSD Extension** — Front-End Development Specialized Certificate
-
-📚 **Software Engineering BS** — UNINTER Brazil (In Progress)
-
-🔜 **Java Programming Certificate** — UCSD Extension (Mar 2026)
+- ✅ **Meta Back-End Developer** — Professional Certificate
+- ✅ **UCSD Extension** — Front-End Development Specialized Certificate
+- 📚 **Software Engineering BS** — UNINTER Brazil (In Progress)
+- 🔜 **Java Programming Certificate** — UCSD Extension (Mar 2026)
 
 ## GitHub Activity
 
