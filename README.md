@@ -124,16 +124,17 @@ Full-stack restaurant booking system. Meta capstone project.
 
 🎓 **Bachelor of Science in Software Engineering** — UNINTER, Brazil *(In Progress)*
 
-### 📜 Certifications
+📋 **Front-End Development Certificate** (5 courses) — UC San Diego Extension *(4/5 Complete)*
+📋 **Java Programming Certificate** (4 courses) — UC San Diego Extension *(Starts Mar 2026)*
+
+### 📜 Professional Certifications
 
 | Certificate | Provider | Status |
 |-------------|----------|--------|
 | **Meta Back-End Developer** (9 courses) | Meta / Coursera | ✅ Completed |
-| **Front-End Development** (5 courses) | UCSD Extension | 🟡 4/5 |
 | **IBM AI Developer** | IBM / Coursera | 🟡 In Progress |
 | **IBM Cybersecurity Analyst** | IBM / Coursera | 🟡 In Progress |
 | **Prompt Engineering** | Vanderbilt / Coursera | 🟡 In Progress |
-| **Java Programming** (4 courses) | UCSD Extension | ⏳ Mar 2026 |
 
 ---
 
