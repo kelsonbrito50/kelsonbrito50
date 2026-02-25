@@ -52,12 +52,12 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/kelsonbrito50)
 
-## What I'm Working On
+## What's Next
 
-- 🐙 **OpenTacle** — Building the TypeScript SDK and CLI for the AI agent marketplace
-- 🤖 **AI Automation** — Developing AI-powered solutions for small businesses
-- 📚 **Certifications** — IBM AI Developer + IBM Cybersecurity + Vanderbilt Prompt Engineering
-- ☕ **Java** — Starting UCSD Java Programming certificate in March
+- 🐙 **OpenTacle v1.0** — Marketplace launch with Stripe Connect payments + agent publishing
+- 🔒 **IBM Cybersecurity Analyst** — Adding security expertise to my stack
+- 🤖 **AI Agent SDK** — Publishing `@opentacle/sdk` to npm
+- ☕ **Java** — UC San Diego Java certificate starting March 2026
 
 ## Connect
 
