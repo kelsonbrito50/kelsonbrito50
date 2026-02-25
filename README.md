@@ -29,7 +29,7 @@
 
 ## Certifications
 
-- ✅ **Meta Back-End Developer** — Professional Certificate (Coursera, Dec 2025)
+- ✅ **Meta Back-End Developer** — Professional Certificate
 - ✅ **UCSD Extension** — Front-End Development Specialized Certificate
 - 📚 **Software Engineering BS** — UNINTER Brazil (In Progress)
 - 🔜 **Java Programming Certificate** — UCSD Extension (Mar 2026)
