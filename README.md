@@ -98,28 +98,6 @@ Production e-commerce for Brazilian baby products. Live credit card payments.
 
 
 ---
-
-## 🏆 Achievements
-
-| Badge | Achievement |
-|-------|-------------|
-| 🦈 **Pull Shark** | Opened and merged multiple pull requests |
-| ⚡ **Quickdraw** | Closed an issue or PR within 5 minutes of opening |
-| 🧐 **Pair Extraordinaire** | Coauthored commits on merged pull requests |
-| 🌟 **Starstruck** | Created a repository with many stars |
-
----
-
-## 🤝 Open Source Contributions
-
-I believe in giving back to the community. Here's how I contribute:
-
-- 🛠️ **Active maintainer** of my own open-source projects
-- 📝 **Documentation** improvements and bug fixes
-- 🐛 **Bug reports** and issue triage
-- ⭐ Supporting projects I use daily
-
----
 <div align="center">
 
 **Open to remote opportunities · EN · PT · ES**
