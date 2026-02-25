@@ -79,24 +79,6 @@ Production e-commerce for Brazilian baby products. Live credit card payments.
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelsonbrito50&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelsonbrito50&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelsonbrito50&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-trophies.vercel.app/?username=kelsonbrito50&theme=tokyonight&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
 ---
 <div align="center">
 
