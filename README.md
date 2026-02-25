@@ -15,7 +15,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-> I ship production apps that handle real money, real users, and real uptime. Not tutorials — real systems.
+> Turning code into working products since day one. Full-stack, multilingual, remote-ready.
 
 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Fluent)
 
