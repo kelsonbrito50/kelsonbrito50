@@ -25,8 +25,6 @@
 - 🏢 **[ECOMMDEV](https://www.ecommdev.com.br)** — 13-module enterprise Django platform. 6-container Docker architecture, Celery + Redis async, MercadoPago payments, OWASP-compliant. ([Code](https://github.com/kelsonbrito50/ecommdev-platform))
 - 🎯 **[HireMe AI](https://hireme-ai-rust.vercel.app)** — AI-powered job tracker with GPT-4 skill matching & cover letter generation. Next.js 14 + TypeScript + Prisma + Neon. ([Code](https://github.com/kelsonbrito50/hireme-ai))
 - 🔐 **[SecurePass](https://kelsonbrito50.github.io/securepass-dashboard)** — Password security platform with real breach detection via HIBP (k-anonymity). Django REST + React 18 + Chart.js + JWT. ([Code](https://github.com/kelsonbrito50/securepass-dashboard))
-- 🐙 **[OpenTacle](https://github.com/opentacle)** — Decentralized AI Agent Marketplace (in development)
-
 ## Learning & Study
 
 - ⚛️ **[React Patterns](https://github.com/kelsonbrito50/react-patterns)** — Production patterns: Custom Hooks, Compound Components, Error Boundaries, Lazy Loading
