@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Building+Production+Systems;Django+%7C+React+%7C+Next.js+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Dev+%7C+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+TypeScript;Building+OpenTacle+%F0%9F%90%99;Meta+Certified+%7C+Open+to+Remote" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,6 +21,7 @@ Full Stack Developer shipping **production applications with real users and real
 
 - 🏢 **Full Stack Dev** @ [BabyHappy](https://babyhappyjp.com.br) — E-commerce processing real credit card payments via Cielo
 - 🚀 **Founder** @ [ECOMMDEV](https://www.ecommdev.com.br) — 13-module enterprise Django platform
+- 🐙 **Building** [OpenTacle](https://github.com/opentacle) — Decentralized AI Agent Marketplace
 - 🎓 **UCSD Extension** (Front-End) · **Meta Certified** (Back-End) · **Software Engineering BS**
 - 🔐 Security-focused: OWASP compliance, Cloudflare WAF, JWT auth, breach detection
 - 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Fluent)
