@@ -29,8 +29,8 @@
 - 🐙 **[OpenTacle](https://github.com/opentacle/opentacle)** — AI Agent Marketplace — build, publish, and monetize AI agents (TypeScript SDK + CLI)
 - 🎯 **[HireMe AI](https://hireme-ai-rust.vercel.app)** — AI job tracker: paste job description → skill match score (0-100) + AI cover letters ([code](https://github.com/kelsonbrito50/hireme-ai))
 - 🔐 **[SecurePass Dashboard](https://kelsonbrito50.github.io/securepass-dashboard)** — Password security platform with HIBP breach detection using k-anonymity ([code](https://github.com/kelsonbrito50/securepass-dashboard))
-- 🏢 **[ECOMMDEV Platform](https://www.ecommdev.com.br)** — Enterprise Django platform: Redis, Celery, Docker, AWS S3, MercadoPago ([demo](https://github.com/kelsonbrito50/ecommdev-demo))
-- 🛒 **[BabyHappy](https://babyhappyjp.com.br)** — Production e-commerce for Brazilian baby products, live credit card payments ([demo](https://github.com/kelsonbrito50/babyhappy-ecommerce-demo))
+- 🏢 **[ECOMMDEV Platform](https://www.ecommdev.com.br)** — Enterprise Django platform: Redis, Celery, Docker, AWS S3, MercadoPago ([code](https://github.com/kelsonbrito50/ecommdev-platform))
+- 🛒 **[BabyHappy](https://babyhappyjp.com.br)** — Production e-commerce for Brazilian baby products, live credit card payments ([code](https://github.com/kelsonbrito50/babyhappy-ecommerce))
 
 
 ## Education
