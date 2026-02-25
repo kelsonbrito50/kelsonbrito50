@@ -120,7 +120,11 @@ Full-stack restaurant booking system. Meta capstone project.
 
 ---
 
-### 🎓 Certifications
+### 🎓 Education
+
+🎓 **Bachelor of Science in Software Engineering** — UNINTER, Brazil *(In Progress)*
+
+### 📜 Certifications
 
 | Certificate | Provider | Status |
 |-------------|----------|--------|
@@ -130,7 +134,6 @@ Full-stack restaurant booking system. Meta capstone project.
 | **IBM Cybersecurity Analyst** | IBM / Coursera | 🟡 In Progress |
 | **Prompt Engineering** | Vanderbilt / Coursera | 🟡 In Progress |
 | **Java Programming** (4 courses) | UCSD Extension | ⏳ Mar 2026 |
-| **Software Engineering B.S.** | UNINTER Brazil | 🟡 In Progress |
 
 ---
 
