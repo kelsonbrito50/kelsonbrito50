@@ -27,6 +27,11 @@
 - 🔐 **[SecurePass](https://kelsonbrito50.github.io/securepass-dashboard)** — Password security platform with real breach detection via HIBP (k-anonymity). Django REST + React 18 + Chart.js + JWT. ([Code](https://github.com/kelsonbrito50/securepass-dashboard))
 - 🐙 **[OpenTacle](https://github.com/opentacle)** — Decentralized AI Agent Marketplace (in development)
 
+## Learning & Study
+
+- ⚛️ **[React Patterns](https://github.com/kelsonbrito50/react-patterns)** — Production patterns: Custom Hooks, Compound Components, Error Boundaries, Lazy Loading
+- 🧠 **[Python DSA](https://github.com/kelsonbrito50/python-dsa)** — Data Structures & Algorithms with tests and complexity analysis
+
 ## Certifications
 
 - ✅ **Meta Back-End Developer** — Professional Certificate
