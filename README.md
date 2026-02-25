@@ -39,7 +39,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/6C63FF/kelsonbrito50)
+![GitHub Contribution Graph](https://ghchart.rshah.org/kelsonbrito50)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kelsonbrito"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
