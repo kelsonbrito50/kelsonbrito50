@@ -1,84 +1,45 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Dev+%7C+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+TypeScript;Building+OpenTacle+%F0%9F%90%99;Meta+Certified+%7C+Open+to+Remote" alt="Typing SVG" />
-</h1>
+# Hi, I'm Kelson 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kelsonbrito"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/kelsonbrito6"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.ecommdev.com.br"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:ecommdev02@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+🇧🇷 **Brazil** | 🌍 **Open to Remote** | 🏢 **Full Stack Dev @ BabyHappy** | 🚀 **Founder @ ECOMMDEV**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelsonbrito50&style=for-the-badge&color=6C63FF" />
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+> I ship production apps that handle real money, real users, and real uptime. Not tutorials — real systems.
 
-### 🚀 About Me
+🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Fluent)
 
-Full Stack Developer shipping **production applications with real users and real payments**. I don't build toy projects — I build systems that handle money, serve customers, and run 24/7.
+## What I'm Building
 
-- 🏢 **Full Stack Dev** @ [BabyHappy](https://babyhappyjp.com.br) — E-commerce processing real credit card payments via Cielo
-- 🚀 **Founder** @ [ECOMMDEV](https://www.ecommdev.com.br) — 13-module enterprise Django platform
-- 🐙 **Building** [OpenTacle](https://github.com/opentacle) — Decentralized AI Agent Marketplace
-- 🎓 **UCSD Extension** (Front-End) · **Meta Certified** (Back-End) · **Software Engineering BS**
-- 🔐 Security-focused: OWASP compliance, Cloudflare WAF, JWT auth, breach detection
-- 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Fluent)
+- 🛒 **[BabyHappy](https://babyhappyjp.com.br)** — Production e-commerce processing real Cielo credit card payments. Django + Docker + PostgreSQL + Cloudflare WAF. ([Code](https://github.com/kelsonbrito50/babyhappy-ecommerce))
+- 🏢 **[ECOMMDEV](https://www.ecommdev.com.br)** — 13-module enterprise Django platform. 6-container Docker architecture, Celery + Redis async, MercadoPago payments, OWASP-compliant. ([Code](https://github.com/kelsonbrito50/ecommdev-platform))
+- 🎯 **[HireMe AI](https://hireme-ai-rust.vercel.app)** — AI-powered job tracker with GPT-4 skill matching & cover letter generation. Next.js 14 + TypeScript + Prisma + Neon. ([Code](https://github.com/kelsonbrito50/hireme-ai))
+- 🔐 **[SecurePass](https://kelsonbrito50.github.io/securepass-dashboard)** — Password security platform with real breach detection via HIBP (k-anonymity). Django REST + React 18 + Chart.js + JWT. ([Code](https://github.com/kelsonbrito50/securepass-dashboard))
+- 🐙 **[OpenTacle](https://github.com/opentacle)** — Decentralized AI Agent Marketplace (in development)
 
----
+## Certifications
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Stack | Description | Link |
-|---------|-------|-------------|------|
-| 🛒 **BabyHappy** | Django · Docker · Cielo | Production e-commerce with real payment processing | [Live](https://babyhappyjp.com.br) · [Code](https://github.com/kelsonbrito50/babyhappy-ecommerce) |
-| 🏢 **ECOMMDEV** | Django · DRF · React · Celery | 13-module enterprise platform, 6-container Docker | [Live](https://www.ecommdev.com.br) · [Code](https://github.com/kelsonbrito50/ecommdev-platform) |
-| 🎯 **HireMe AI** | Next.js · TypeScript · GPT-4 | AI job tracker with skill matching & cover letters | [Live](https://hireme-ai-rust.vercel.app) · [Code](https://github.com/kelsonbrito50/hireme-ai) |
-| 🔐 **SecurePass** | Django REST · React · Chart.js | Password security with real breach detection (HIBP) | [Live](https://kelsonbrito50.github.io/securepass-dashboard) · [Code](https://github.com/kelsonbrito50/securepass-dashboard) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelsonbrito50&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonbrito50&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelsonbrito50&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Certifications
-
-- ✅ **Meta Back-End Developer** Professional Certificate (Coursera)
+- ✅ **Meta Back-End Developer** — Professional Certificate (Coursera, Dec 2025)
 - ✅ **UCSD Extension** — Front-End Development Specialized Certificate
 - 📚 **Software Engineering BS** — UNINTER Brazil (In Progress)
+- 🔜 **Java Programming Certificate** — UCSD Extension (Mar 2026)
 
----
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/6C63FF/kelsonbrito50)
 
 <p align="center">
-  <b>💬 Open to remote opportunities — Let's build something great together.</b>
+  <a href="https://www.linkedin.com/in/kelsonbrito"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/kelsonbrito6"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="mailto:ecommdev02@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
