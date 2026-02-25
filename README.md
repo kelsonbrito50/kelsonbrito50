@@ -38,6 +38,10 @@
 - 📚 **Software Engineering BS** — UNINTER Brazil (In Progress)
 - 🔜 **Java Programming Certificate** — UCSD Extension (Mar 2026)
 
+## How I Work
+
+> I treat every project like a team project — PRs, CI checks, clean merges. Good habits don't need an audience.
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/kelsonbrito50)
