@@ -43,10 +43,10 @@
 
 ## Professional Certifications
 
-- ✅ **Meta Back-End Developer** (9 courses) — Meta / Coursera
-- 🟡 **IBM AI Developer** — IBM / Coursera
-- 🟡 **IBM Cybersecurity Analyst** — IBM / Coursera
-- 🟡 **Prompt Engineering** — Vanderbilt / Coursera
+- ✅ **Meta Back-End Developer** (9 courses) — Meta
+- 🟡 **IBM AI Developer** — IBM
+- 🟡 **IBM Cybersecurity Analyst** — IBM
+- 🟡 **Prompt Engineering** — Vanderbilt University
 
 ## GitHub Activity
 
