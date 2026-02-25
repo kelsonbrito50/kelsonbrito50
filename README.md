@@ -22,7 +22,7 @@ Full Stack Developer with professional experience building and maintaining **pro
 - 🚀 **Founder @ ECOMMDEV** — 13-module enterprise Django platform, 6-container Docker architecture
 - 🔐 Security-focused: OWASP-compliant systems, Cloudflare WAF, JWT authentication
 - 🌱 Currently studying: **Software Engineering B.S.** @ UNINTER + **UCSD Extension** certifications
-- 🎯 Pursuing: **Meta Back-End Developer Certificate** (5/9 courses), **Java** (UCSD, Mar 2026)
+- 🎯 Pursuing: **Java Programming Certificate** (UCSD, starts Mar 2026)
 - 💬 Languages: **English** (Fluent) · **Portuguese** (Native) · **Spanish** (Fluent)
 - 🚀 **Live project:** [HireMe AI](https://hireme-ai-rust.vercel.app) — AI job tracker (Next.js + GPT-4 + TypeScript)
 - 📍 Brazil · Available for **full remote** positions
@@ -182,7 +182,7 @@ Full Stack Developer with professional experience building and maintaining **pro
 |---|---|---|
 | Software Engineering B.S. | UNINTER Brazil | 🟡 In Progress (Feb 2026) |
 | Front-End Development | UCSD Extension | 🟢 4/5 Done · React ✅ HTML/CSS ✅ JS ✅ |
-| Meta Back-End Developer | Coursera / Meta | 🟡 5/9 Courses Complete |
+| Meta Back-End Developer | Coursera / Meta | ✅ Completed (Dec 2025) |
 | Java Programming (I→IV) | UCSD Extension | 🔜 Starts Mar 24, 2026 |
 | Cybersecurity | UCSD Extension | 🔜 After Java |
 
