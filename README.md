@@ -21,8 +21,8 @@ Full Stack Developer shipping **production applications with real users and real
 
 - 🏢 **Full Stack Dev** @ [BabyHappy](https://babyhappyjp.com.br) — E-commerce processing real credit card payments via Cielo
 - 🚀 **Founder** @ [ECOMMDEV](https://www.ecommdev.com.br) — 13-module enterprise Django platform
-- 🐙 **Building** [OpenTacle](https://github.com/opentacle) — AI Agent Marketplace
 - 🎓 **UCSD Extension** (Front-End) · **Meta Certified** (Back-End) · **Software Engineering BS**
+- 🔐 Security-focused: OWASP compliance, Cloudflare WAF, JWT auth, breach detection
 - 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Fluent)
 
 ---
