@@ -1,6 +1,6 @@
 # Hi, I'm Kelson 👋
 
-📍 **Houston, TX** | 🚀 **Full Stack Developer** | 🐙 **Building OpenTacle**
+🚀 **Full Stack Developer** | 🐙 **Building OpenTacle**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -35,7 +35,7 @@
 
 ## Education
 
-🎓 **Bachelor of Science in Software Engineering** — UNINTER, Brazil *(In Progress)*
+🎓 **Bachelor of Science in Software Engineering** — UNINTER *(In Progress)*
 
 📋 **Front-End Development Certificate** (5 courses) — UC San Diego Extension *(4/5 Complete)*
 
