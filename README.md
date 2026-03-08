@@ -1,30 +1,28 @@
 # Hi, I'm Kelson 👋
 
-🇧🇷 **Brazil** | ☁️ **AWS Certified** | 🌍 **Open to Remote** | 🏢 **Backend Developer & Cloud Engineer**
+🇧🇷 **Brazil** | ☁️ **AWS Cloud Practitioner** | 🌍 **Open to Remote** | 🏢 **Backend Developer**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ## About Me
 
-Backend Developer and **AWS Certified Cloud Practitioner** building production-grade systems with Python, Django, and cloud-native architecture on AWS.
+Backend Developer building production-grade systems with Python, Django, and cloud-native architecture on AWS. Completed **AWS Cloud Practitioner Essentials** training.
 
 - 🔧 I build, deploy, and maintain **production e-commerce platforms** — not toy projects
 - ☁️ Managing **Linux servers on AWS** (EC2, S3, RDS, VPC, IAM) in production
-- 🧪 **179+ automated tests** across my projects — TDD and CI/CD are non-negotiable
+- 🧪 **680+ automated tests** across my projects — TDD and CI/CD are non-negotiable
 - 🤖 AI-augmented development workflow — GitHub Copilot, AI-assisted code review
 - 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Fluent)
 
@@ -43,22 +41,23 @@ Backend Developer and **AWS Certified Cloud Practitioner** building production-g
 |------|-------|
 | ⚛️ **[React Patterns](https://github.com/kelsonbrito50/react-patterns)** | Custom Hooks, Compound Components, Error Boundaries, Lazy Loading |
 | 🧠 **[Python DSA](https://github.com/kelsonbrito50/python-dsa)** | 20+ algorithms, 40+ tests — interview prep with complexity analysis |
+| ☕ **[Java DSA](https://github.com/kelsonbrito50/java-dsa)** | Data Structures & Algorithms in Java 17 with JUnit 5 tests |
 
-## 📜 Certifications
+## 📜 Training & Certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
-| ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services | 2026 |
+| ☁️ **AWS Cloud Practitioner Essentials** | Amazon Web Services | 2026 |
 | 🐍 **Meta Back-End Developer** Professional Certificate | Meta / Coursera | 2025 |
 | 🌐 **Front-End Development** Specialized Certificate | UC San Diego Extension | 2025-26 |
 | ☕ **Java Programming** Certificate (in progress) | UC San Diego Extension | 2026 |
-| 🎓 **Software Engineering BS** (in progress) | UNINTER Brazil | 2024-28 |
+| 🎓 **Software Engineering BS** (in progress) | UNINTER Brazil | 2026-29 |
 
 ## ⚡ Technical Highlights
 
 ```
 ✅ 95/100 Lighthouse performance — production e-commerce
-✅ 179+ automated tests — unit + integration + e2e
+✅ 680+ automated tests — unit + integration + e2e
 ✅ 501 tests / 85% coverage — enterprise Django platform
 ✅ Docker + CI/CD on every project — no exceptions
 ✅ AWS infrastructure — EC2, S3, RDS, VPC, IAM in production
@@ -69,7 +68,7 @@ Backend Developer and **AWS Certified Cloud Practitioner** building production-g
 ## 🎯 Currently Learning
 
 - ☕ **Java 17+** & **Spring Boot 3** — UCSD Extension (Mar 2026)
-- ☁️ **AWS Solutions Architect Associate** — next certification target
+- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — next certification target
 - 📡 **Apache Kafka** + **Redis** + **Kubernetes** — event-driven architecture
 - 🏗️ **Infrastructure as Code** — Terraform + CloudFormation
 
@@ -94,4 +93,4 @@ Backend Developer and **AWS Certified Cloud Practitioner** building production-g
 
 ---
 
-💡 *Open to remote Backend Developer, Cloud Engineer, and Software Engineer opportunities worldwide.*
+💡 *Open to remote Backend Developer and Software Engineer opportunities worldwide.*
