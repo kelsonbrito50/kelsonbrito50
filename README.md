@@ -7,6 +7,7 @@
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -18,19 +19,20 @@
 
 ## About Me
 
-Backend Developer building production-grade systems with Python, Django, and cloud-native architecture on AWS. Completed **AWS Cloud Practitioner Essentials** training.
+Backend Developer building production-grade systems with Python, Django, and cloud-native architecture on AWS. Building serverless microservices with **Terraform** and **AWS Lambda**.
 
 - 🔧 I build, deploy, and maintain **production e-commerce platforms** — not toy projects
-- ☁️ Managing **Linux servers on AWS** (EC2, S3, RDS, VPC, IAM) in production
-- 🧪 **680+ automated tests** across my projects — TDD and CI/CD are non-negotiable
+- ☁️ **AWS serverless + IaC** — Lambda, API Gateway, DynamoDB, SQS, SNS, Terraform
+- 🧪 **700+ automated tests** across my projects — TDD and CI/CD are non-negotiable
 - 🤖 AI-augmented development workflow — GitHub Copilot, AI-assisted code review
 - 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Fluent)
 
-## 🏗️ Production Projects
+## 🏗️ Production & Cloud Projects
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| 🛒 **[BabyHappy](https://github.com/kelsonbrito50/babyhappy-ecommerce)** | Production e-commerce — real payments, 95/100 perf score, 179+ tests | Django · DRF · PostgreSQL · Redis · Celery · Docker · AWS | [babyhappyjp.com.br](https://babyhappyjp.com.br) |
+| ⚡ **[CloudTask API](https://github.com/kelsonbrito50/cloudtask-api)** | Serverless task processing — 6 Lambdas, event-driven, 100% Terraform | AWS Lambda · API Gateway · DynamoDB · SQS · SNS · Terraform | — |
+| 🛒 **[BabyHappy](https://github.com/kelsonbrito50/babyhappy-ecommerce)** | Production e-commerce — real payments, 95/100 perf score, 179+ tests | Django · DRF · PostgreSQL · Redis · Docker · AWS | [babyhappyjp.com.br](https://babyhappyjp.com.br) |
 | 🏢 **[ECOMMDEV](https://github.com/kelsonbrito50/ecommdev-platform)** | Enterprise platform — 13 modules, 501 tests, 85% coverage | Django · DRF · PostgreSQL · Redis · Celery · Docker · CI/CD | [ecommdev.com.br](https://www.ecommdev.com.br) |
 | 🎯 **[HireMe AI](https://github.com/kelsonbrito50/hireme-ai)** | AI job tracker — GPT-4 skill matching & cover letter gen | Next.js 14 · TypeScript · Prisma · OpenAI · Tailwind | [Live](https://hireme-ai-rust.vercel.app) |
 | 🔐 **[SecurePass](https://github.com/kelsonbrito50/securepass-dashboard)** | Password security — HIBP breach detection (k-anonymity) | Django REST · React 18 · JWT · Chart.js | [Live](https://kelsonbrito50.github.io/securepass-dashboard) |
@@ -57,10 +59,12 @@ Backend Developer building production-grade systems with Python, Django, and clo
 
 ```
 ✅ 95/100 Lighthouse performance — production e-commerce
-✅ 680+ automated tests — unit + integration + e2e
+✅ 700+ automated tests — unit + integration + e2e
 ✅ 501 tests / 85% coverage — enterprise Django platform
+✅ Serverless microservices — Lambda + API Gateway + DynamoDB + SQS + SNS
+✅ Infrastructure as Code — Terraform (100% IaC, CI validates)
 ✅ Docker + CI/CD on every project — no exceptions
-✅ AWS infrastructure — EC2, S3, RDS, VPC, IAM in production
+✅ AWS infrastructure — EC2, S3, RDS, Lambda, VPC, IAM in production
 ✅ Linux server administration — Debian/Ubuntu, Nginx, security hardening
 ✅ Clean Architecture + SOLID + TDD — real engineering, not just coding
 ```
@@ -70,7 +74,6 @@ Backend Developer building production-grade systems with Python, Django, and clo
 - ☕ **Java 17+** & **Spring Boot 3** — UCSD Extension (Mar 2026)
 - ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — next certification target
 - 📡 **Apache Kafka** + **Redis** + **Kubernetes** — event-driven architecture
-- 🏗️ **Infrastructure as Code** — Terraform + CloudFormation
 
 ## 📊 How I Work
 
