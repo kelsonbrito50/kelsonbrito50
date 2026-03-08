@@ -25,7 +25,7 @@ Backend Developer building production-grade systems with Python, Django, and clo
 - ☁️ **AWS serverless + IaC** — Lambda, API Gateway, DynamoDB, SQS, SNS, Terraform
 - 🧪 **700+ automated tests** across my projects — TDD and CI/CD are non-negotiable
 - 🤖 AI-augmented development workflow — GitHub Copilot, AI-assisted code review
-- 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Fluent)
+- 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Native)
 
 ## 🏗️ Production & Cloud Projects
 
