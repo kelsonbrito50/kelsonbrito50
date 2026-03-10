@@ -1,69 +1,91 @@
-# Hi, I'm Kelson 👋
+# $\color{#64ffda}{\textbf{Kelson Brito}}$ 🥷👨🏽‍💻
 
-🇧🇷 **Brazil** | ☁️ **AWS Cloud Practitioner** | 🌍 **Open to Remote** | 💻 **Full Stack Developer**
+![Profile Views](https://komarev.com/ghpvc/?username=kelsonbrito50&color=64ffda&style=flat-square)
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+Olá, 👋🏽 Eu me chamo **Kelson**!
 
-## About Me
+- **Full Stack Developer**, especializado em **Java, Spring Boot, Python, Django e arquitetura cloud-native na AWS**
+- 🎓 Cursando **Engenharia de Software** na UNINTER (2025-2029)
+- 🎓 **Java Programming Certificate** — UC San Diego Extension (2026)
+- 🎓 **Front-End Development Certificate** — UC San Diego Extension (2025-26)
+- 💼 Projetos em produção com **700+ testes automatizados**, pagamentos reais e 95/100 Lighthouse
+- 🌐 **Trilíngue:** English (Fluent) · Português (Nativo) · Español (Nativo)
+- ☁️ **AWS Cloud Practitioner** — infraestrutura serverless + IaC com Terraform
 
-Full Stack Developer building production-grade systems with Java, Spring Boot, Python, Django, React, and cloud-native architecture on AWS. From backend APIs to frontend interfaces, serverless microservices with **Terraform** and **AWS Lambda**.
+<details>
+  <summary>🔥 Mais sobre mim</summary>
 
-- 🔧 I build, deploy, and maintain **production e-commerce platforms** — not toy projects
-- ☁️ **AWS serverless + IaC** — Lambda, API Gateway, DynamoDB, SQS, SNS, Terraform
-- ☕ **Java + Spring Boot** — building enterprise-grade backend services
-- ⚛️ **React + Next.js** — modern frontend with TypeScript
-- 🧪 **700+ automated tests** across my projects — TDD and CI/CD are non-negotiable
-- 🤖 AI-augmented development workflow — GitHub Copilot, AI-assisted code review
-- 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Native)
+  ```
+          Quando não estou codando, estou estudando cybersecurity, 
+          resolvendo CTFs ou planejando o próximo projeto.
+          Security-first mindset — sempre.
+  ```
 
-## 🎓 Education
+  ```java
+  while (alive) {
+      eat();
+      sleep();
+      code();
+      hack();
+      repeat();
+  }
+  ```
+</details>
 
-| Program | Institution | Year |
-|---|---|---|
-| 🎓 **Software Engineering BS** (in progress) | UNINTER Brazil | 2025-29 |
-| ☕ **Java Programming** Certificate (in progress) | UC San Diego Extension | 2026 |
-| 🌐 **Front-End Development** Specialized Certificate | UC San Diego Extension | 2025-26 |
+### 📲 Conecte-se comigo
 
-## 📜 Certifications
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelson-brito-ba922b363)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelsonbrito50@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kelsonbrito6)
 
-| Certification | Issuer | Year |
-|---|---|---|
-| ☁️ **AWS Cloud Practitioner Essentials** | Amazon Web Services | 2026 |
-| 🐍 **Meta Back-End Developer** Professional Certificate | Meta | 2025 |
+### ⚒️ Skills
 
-## 📊 How I Work
+#### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-> I treat every project like a team project — PRs, CI checks, clean merges, code review. Good habits don't need an audience.
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- Every feature gets a branch → PR → review → merge
-- Tests run before every merge — broken builds don't ship
-- Documentation is part of the deliverable, not an afterthought
-- Security is a foundation, not a feature — OWASP Top 10 awareness on every project
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-## GitHub Activity
+#### Metodologias & Qualidade
+![TDD](https://img.shields.io/badge/TDD-007ACC?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-4CAF50?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-F7DF1E?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-007ACC?style=for-the-badge&logo=serverless&logoColor=white)
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/kelsonbrito50)
+#### Certifications
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta%20Back--End%20Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kelson-brito-ba922b363"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/kelsonbrito6"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="mailto:ecommdev02@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+#### IDEs & Ferramentas
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-💡 *Open to remote Full Stack Developer and Software Engineer opportunities worldwide.*
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/64ffda/kelsonbrito50)
+
+---
+
+Made with 🔥 [Kelson](https://www.linkedin.com/in/kelson-brito-ba922b363)!
