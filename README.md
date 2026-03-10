@@ -45,20 +45,6 @@ Full Stack Developer building production-grade systems with Java, Spring Boot, P
 | ☁️ **AWS Cloud Practitioner Essentials** | Amazon Web Services | 2026 |
 | 🐍 **Meta Back-End Developer** Professional Certificate | Meta | 2025 |
 
-## ⚡ Technical Highlights
-
-```
-✅ 95/100 Lighthouse performance — production e-commerce
-✅ 700+ automated tests — unit + integration + e2e
-✅ 501 tests / 85% coverage — enterprise Django platform
-✅ Serverless microservices — Lambda + API Gateway + DynamoDB + SQS + SNS
-✅ Infrastructure as Code — Terraform (100% IaC, CI validates)
-✅ Docker + CI/CD on every project — no exceptions
-✅ AWS infrastructure — EC2, S3, RDS, Lambda, VPC, IAM in production
-✅ Linux server administration — Debian/Ubuntu, Nginx, security hardening
-✅ Clean Architecture + SOLID + TDD — real engineering, not just coding
-```
-
 ## 📊 How I Work
 
 > I treat every project like a team project — PRs, CI checks, clean merges, code review. Good habits don't need an audience.
