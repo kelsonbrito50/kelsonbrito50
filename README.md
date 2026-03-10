@@ -52,7 +52,7 @@ Full Stack Developer building production-grade systems with Java, Spring Boot, P
 
 | Program | Institution | Year |
 |---|---|---|
-| 🎓 **Software Engineering BS** (in progress) | UNINTER Brazil | 2026-29 |
+| 🎓 **Software Engineering BS** (in progress) | UNINTER Brazil | 2025-29 |
 | ☕ **Java Programming** Certificate (in progress) | UC San Diego Extension | 2026 |
 | 🌐 **Front-End Development** Specialized Certificate | UC San Diego Extension | 2025-26 |
 
