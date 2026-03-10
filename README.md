@@ -72,13 +72,6 @@ Full Stack Developer building production-grade systems with Java, Spring Boot, P
 ✅ Clean Architecture + SOLID + TDD — real engineering, not just coding
 ```
 
-## 🎯 Currently Learning
-
-- ☕ **Java 17+** & **Spring Boot 3** — UCSD Extension (Mar 2026)
-- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — next certification target
-- 📡 **Apache Kafka** + **Redis** + **Kubernetes** — event-driven architecture
-- 🔐 **Cybersecurity** — eJPT & OSCP planned for 2027
-
 ## 📊 How I Work
 
 > I treat every project like a team project — PRs, CI checks, clean merges, code review. Good habits don't need an audience.
