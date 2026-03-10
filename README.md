@@ -1,4 +1,4 @@
-# $\color{#64ffda}{\textbf{Kelson Brito}}$ 👨🏽‍💻
+# Hi, I'm Kelson 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kelsonbrito50&color=64ffda&style=flat-square)
 
