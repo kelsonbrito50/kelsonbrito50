@@ -30,24 +30,6 @@ Full Stack Developer building production-grade systems with Java, Spring Boot, P
 - 🤖 AI-augmented development workflow — GitHub Copilot, AI-assisted code review
 - 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Native)
 
-## 🏗️ Production & Cloud Projects
-
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| ⚡ **[CloudTask API](https://github.com/kelsonbrito50/cloudtask-api)** | Serverless task processing — 6 Lambdas, event-driven, 100% Terraform | AWS Lambda · API Gateway · DynamoDB · SQS · SNS · Terraform | — |
-| 🛒 **[BabyHappy](https://github.com/kelsonbrito50/babyhappy-ecommerce)** | Production e-commerce — real payments, 95/100 perf score, 179+ tests | Django · DRF · PostgreSQL · Redis · Docker · AWS | [babyhappyjp.com.br](https://babyhappyjp.com.br) |
-| 🏢 **[ECOMMDEV](https://github.com/kelsonbrito50/ecommdev-platform)** | Enterprise platform — 13 modules, 501 tests, 85% coverage | Django · DRF · PostgreSQL · Redis · Celery · Docker · CI/CD | [ecommdev.com.br](https://www.ecommdev.com.br) |
-| 🎯 **[HireMe AI](https://github.com/kelsonbrito50/hireme-ai)** | AI job tracker — GPT-4 skill matching & cover letter gen | Next.js 14 · TypeScript · Prisma · OpenAI · Tailwind | [Live](https://hireme-ai-rust.vercel.app) |
-| 🔐 **[SecurePass](https://github.com/kelsonbrito50/securepass-dashboard)** | Password security — HIBP breach detection (k-anonymity) | Django REST · React 18 · JWT · Chart.js | [Live](https://kelsonbrito50.github.io/securepass-dashboard) |
-
-## 📚 Learning & Study
-
-| Repo | Focus |
-|------|-------|
-| ⚛️ **[React Patterns](https://github.com/kelsonbrito50/react-patterns)** | Custom Hooks, Compound Components, Error Boundaries, Lazy Loading |
-| 🧠 **[Python DSA](https://github.com/kelsonbrito50/python-dsa)** | 20+ algorithms, 40+ tests — interview prep with complexity analysis |
-| ☕ **[Java DSA](https://github.com/kelsonbrito50/java-dsa)** | Data Structures & Algorithms in Java 17 with JUnit 5 tests |
-
 ## 🎓 Education
 
 | Program | Institution | Year |
