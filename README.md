@@ -12,26 +12,6 @@ Olá, 👋🏽 Eu me chamo **Kelson**!
 - 🌐 **Trilíngue:** English (Fluent) · Português (Nativo) · Español (Nativo)
 - ☁️ **AWS Cloud Practitioner** — infraestrutura serverless + IaC com Terraform
 
-<details>
-  <summary>🔥 Mais sobre mim</summary>
-
-  ```
-          Quando não estou codando, estou estudando cybersecurity, 
-          resolvendo CTFs ou planejando o próximo projeto.
-          Security-first mindset — sempre.
-  ```
-
-  ```java
-  while (alive) {
-      eat();
-      sleep();
-      code();
-      hack();
-      repeat();
-  }
-  ```
-</details>
-
 ### 📲 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelson-brito-ba922b363)
