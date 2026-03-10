@@ -61,7 +61,7 @@ Full Stack Developer building production-grade systems with Java, Spring Boot, P
 | Certification | Issuer | Year |
 |---|---|---|
 | ☁️ **AWS Cloud Practitioner Essentials** | Amazon Web Services | 2026 |
-| 🐍 **Meta Back-End Developer** Professional Certificate | Meta / Coursera | 2025 |
+| 🐍 **Meta Back-End Developer** Professional Certificate | Meta | 2025 |
 
 ## ⚡ Technical Highlights
 
