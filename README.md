@@ -2,17 +2,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kelsonbrito50&color=64ffda&style=flat-square)
 
-Olá, 👋🏽 Eu me chamo **Kelson**!
+Hey there, 👋🏽 I'm **Kelson**!
 
-- **Full Stack Developer**, especializado em **Java, Spring Boot, Python, Django e arquitetura cloud-native na AWS**
-- 🎓 Cursando **Engenharia de Software** na UNINTER (2025-2029)
+- **Full Stack Developer** specializing in **Java, Spring Boot, Python, Django and cloud-native architecture on AWS**
+- 🎓 **Software Engineering BS** (in progress) — UNINTER Brazil (2025-2029)
 - 🎓 **Java Programming Certificate** — UC San Diego Extension (2026)
 - 🎓 **Front-End Development Certificate** — UC San Diego Extension (2025-26)
-- 💼 Projetos em produção com **700+ testes automatizados**, pagamentos reais e 95/100 Lighthouse
-- 🌐 **Trilíngue:** English (Fluent) · Português (Nativo) · Español (Nativo)
-- ☁️ **AWS Cloud Practitioner** — infraestrutura serverless + IaC com Terraform
+- 💼 Production projects with **700+ automated tests**, real payments and 95/100 Lighthouse score
+- 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Native)
+- ☁️ **AWS Cloud Practitioner** — serverless infrastructure + IaC with Terraform
 
-### 📲 Conecte-se comigo
+### 📲 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelson-brito-ba922b363)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelsonbrito50@gmail.com)
@@ -43,7 +43,7 @@ Olá, 👋🏽 Eu me chamo **Kelson**!
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-#### Metodologias & Qualidade
+#### Methodologies & Quality
 ![TDD](https://img.shields.io/badge/TDD-007ACC?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-4CAF50?style=for-the-badge)
@@ -54,7 +54,7 @@ Olá, 👋🏽 Eu me chamo **Kelson**!
 ![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta%20Back--End%20Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 
-#### IDEs & Ferramentas
+#### IDEs & Tools
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
