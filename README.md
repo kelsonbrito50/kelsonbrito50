@@ -48,15 +48,20 @@ Full Stack Developer building production-grade systems with Java, Spring Boot, P
 | 🧠 **[Python DSA](https://github.com/kelsonbrito50/python-dsa)** | 20+ algorithms, 40+ tests — interview prep with complexity analysis |
 | ☕ **[Java DSA](https://github.com/kelsonbrito50/java-dsa)** | Data Structures & Algorithms in Java 17 with JUnit 5 tests |
 
-## 📜 Training & Certifications
+## 🎓 Education
+
+| Program | Institution | Year |
+|---|---|---|
+| 🎓 **Software Engineering BS** (in progress) | UNINTER Brazil | 2026-29 |
+| 🌐 **Front-End Development** Specialized Certificate | UC San Diego Extension | 2025-26 |
+| ☕ **Java Programming** Certificate (in progress) | UC San Diego Extension | 2026 |
+
+## 📜 Certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
 | ☁️ **AWS Cloud Practitioner Essentials** | Amazon Web Services | 2026 |
 | 🐍 **Meta Back-End Developer** Professional Certificate | Meta / Coursera | 2025 |
-| 🌐 **Front-End Development** Specialized Certificate | UC San Diego Extension | 2025-26 |
-| ☕ **Java Programming** Certificate (in progress) | UC San Diego Extension | 2026 |
-| 🎓 **Software Engineering BS** (in progress) | UNINTER Brazil | 2026-29 |
 
 ## ⚡ Technical Highlights
 
