@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kelsonbrito50&color=64ffda&style=flat-square)
 
-Hey there, 👋🏽 I'm **Kelson**!
-
 - **Full Stack Developer** specializing in **Java, Spring Boot, Python, Django and cloud-native architecture on AWS**
 - 🎓 **Software Engineering BS** (in progress) — UNINTER Brazil (2025-2029)
 - 🎓 **Java Programming Certificate** — UC San Diego Extension (2026)
