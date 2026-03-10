@@ -62,10 +62,4 @@ Hey there, 👋🏽 I'm **Kelson**!
 
 ---
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/64ffda/kelsonbrito50)
-
----
-
 Made with 🔥 [Kelson](https://www.linkedin.com/in/kelson-brito-ba922b363)!
