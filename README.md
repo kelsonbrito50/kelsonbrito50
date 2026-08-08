@@ -8,7 +8,7 @@
 - 🎓 **Front-End Development Certificate** — UC San Diego Extension (2025-26)
 - 🏅 **Meta Back-End Developer Certificate** (2025)
 - 🔐 **Design and Analyze Secure Networked Systems** — University of Colorado Boulder (2026)
-- 💼 Production e-commerce with real card payments, 95/100 Lighthouse, 680+ automated tests across projects
+- 💼 Production e-commerce with real card payments, 680+ automated tests across projects
 - 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Native)
 
 ### 🚀 Projects
