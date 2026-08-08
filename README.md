@@ -4,7 +4,7 @@
 
 - **Full Stack Developer** — Python and Django in production, moving into Java and Spring Boot
 - 🎓 **Software Engineering BS** (in progress) — UNINTER Brazil (2026-2029)
-- 🎓 **Java Programming I & II** — UC San Diego Extension (2026)
+- 🎓 **Java Programming** — UC San Diego Extension (2026)
 - 🎓 **Front-End Development Certificate** — UC San Diego Extension (2025-26)
 - 🏅 **Meta Back-End Developer Certificate** (2025)
 - 💼 Production e-commerce with real card payments, 95/100 Lighthouse, 680+ automated tests across projects
