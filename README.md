@@ -2,16 +2,19 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kelsonbrito50&color=64ffda&style=flat-square)
 
-- **Full Stack Developer:** Python and Django in production, moving into Java and Spring Boot
+- **Full Stack Developer:** Python and Django in production, Java and Spring Boot in public projects
 - 🎓 **Software Engineering BS** (in progress), UNINTER Brazil (2025-2029)
 - 🎓 **Java Programming Specialized Certificate**, UC San Diego Extension (2026) · Java I–IV
 - 🎓 **Front-End Development Certificate**, UC San Diego Extension (2025-26)
 - 🏅 **Meta Back-End Developer Certificate** (2025)
 - 🔐 **Design and Analyze Secure Networked Systems**, University of Colorado Boulder (2026)
-- 💼 Production e-commerce with real card payments · 550 automated tests across public repositories
+- 💼 Production e-commerce with real card payments · 581 automated tests across public repositories
 - 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Native)
 
 ### 🚀 Projects
+
+**[helpdesk](https://github.com/kelsonbrito50/helpdesk)**: Java ticketing API where a requester sees only their own tickets and an agent sees the queue. Ownership is enforced in one place, and the N+1 on the list endpoint is proven by counting queries, not by claiming it.
+`Spring Boot 4.1 · Spring Security + JWT · 5 related entities · Spring Data JPA · PostgreSQL 16 · Flyway · 31 tests · Testcontainers · JaCoCo · CI`
 
 **[springboot-payment-api](https://github.com/kelsonbrito50/springboot-payment-api)**: Java REST API modelling a payment lifecycle, layered behind a persistence interface.
 `Spring Boot 4 · Spring Data JPA · PostgreSQL 16 · Flyway · 29 tests · Testcontainers · JaCoCo · CI`
@@ -40,7 +43,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
