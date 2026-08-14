@@ -6,7 +6,7 @@
 - 🎓 **Software Engineering BS** (in progress), UNINTER Brazil (2025-2029)
 - 🎓 **Java Programming Specialized Certificate**, UC San Diego Extension (2026) · Java I–IV
 - 🎓 **Front-End Development Certificate**, UC San Diego Extension (2025-26)
-- 🏅 **Meta Back-End Developer Certificate** (2025)
+- 🏅 **Meta Back-End Developer Certificate** (2026)
 - 🔐 **Design and Analyze Secure Networked Systems**, University of Colorado Boulder (2026)
 - 💼 Production e-commerce with real card payments · 581 automated tests across public repositories
 - 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Native)
@@ -17,7 +17,7 @@
 `Spring Boot 4.1 · Spring Security + JWT · 5 related entities · Spring Data JPA · PostgreSQL 16 · Flyway · 31 tests · Testcontainers · JaCoCo · CI`
 
 **[springboot-payment-api](https://github.com/kelsonbrito50/springboot-payment-api)**: Java REST API modelling a payment lifecycle, layered behind a persistence interface.
-`Spring Boot 4 · Spring Data JPA · PostgreSQL 16 · Flyway · 29 tests · Testcontainers · JaCoCo · CI`
+`Spring Boot 4.1 · Spring Data JPA · PostgreSQL 16 · Flyway · 29 tests · Testcontainers · JaCoCo · CI`
 
 **[ecommdev-platform](https://github.com/kelsonbrito50/ecommdev-platform)**: Django platform for services, packages and invoicing.
 `501 tests · 85% coverage · CSP · rate limiting · i18n`
