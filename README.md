@@ -22,18 +22,6 @@
 **[fde-financial-pipeline](https://github.com/kelsonbrito50/fde-financial-pipeline)**: Real-time fraud detection pipeline on Kafka and Postgres — phase 1 (infrastructure, build setup, schema) shipped, stream processing next.
 `Kafka · PostgreSQL · CI`
 
-**BabyHappy** *(private, client work)*: Production Django + React storefront for a Brazilian baby products brand.
-`13 Django apps · Cielo card payments · 179 tests at 90%+ coverage · Celery + Redis · Docker · AWS`
-
-**ecommdev-platform** *(private)*: Django platform for services, packages and invoicing.
-`501 tests · 85% coverage · CSP · rate limiting · i18n`
-
-**helpdesk** *(private)*: Java ticketing API — ownership enforced in one place, N+1 proven by counting queries.
-`Spring Boot 4.1 · Spring Security + JWT · PostgreSQL 16 · Flyway · 31 tests · Testcontainers · CI`
-
-**cloudtask-api** *(private)*: Serverless task processing in Python.
-`6 AWS Lambdas · API Gateway · DynamoDB · SQS · SNS · Terraform IaC · CI/CD`
-
 ### 📲 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsonbrito)
