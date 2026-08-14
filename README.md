@@ -8,25 +8,31 @@
 - 🎓 **Front-End Development Certificate**, UC San Diego Extension (2025-26)
 - 🏅 **Meta Back-End Developer Certificate** (2026)
 - 🔐 **Design and Analyze Secure Networked Systems**, University of Colorado Boulder (2026)
-- 💼 Production e-commerce with real card payments · 581 automated tests across public repositories
+- 💼 Production e-commerce with real card payments · 581 automated tests across my repositories
 - 🌐 **Trilingual:** English (Fluent) · Portuguese (Native) · Spanish (Native)
 
 ### 🚀 Projects
 
-**[helpdesk](https://github.com/kelsonbrito50/helpdesk)**: Java ticketing API where a requester sees only their own tickets and an agent sees the queue. Ownership is enforced in one place, and the N+1 on the list endpoint is proven by counting queries, not by claiming it.
-`Spring Boot 4.1 · Spring Security + JWT · 5 related entities · Spring Data JPA · PostgreSQL 16 · Flyway · 31 tests · Testcontainers · JaCoCo · CI`
+**[banking-microservices](https://github.com/kelsonbrito50/banking-microservices)**: Digital banking app — five Spring Boot services behind an API gateway, each with its own database, coordinating over REST and Kafka with an outbox for reliable events.
+`Java 21 · Spring Boot 3 · Spring Cloud Gateway · Kafka · PostgreSQL · Redis · Angular 18 · Docker`
 
 **[springboot-payment-api](https://github.com/kelsonbrito50/springboot-payment-api)**: Java REST API modelling a payment lifecycle, layered behind a persistence interface.
 `Spring Boot 4.1 · Spring Data JPA · PostgreSQL 16 · Flyway · 29 tests · Testcontainers · JaCoCo · CI`
 
-**[ecommdev-platform](https://github.com/kelsonbrito50/ecommdev-platform)**: Django platform for services, packages and invoicing.
-`501 tests · 85% coverage · CSP · rate limiting · i18n`
-
-**[cloudtask-api](https://github.com/kelsonbrito50/cloudtask-api)**: Serverless task processing in Python.
-`6 AWS Lambdas · API Gateway · DynamoDB · SQS · SNS · Terraform IaC · CI/CD`
+**[fde-financial-pipeline](https://github.com/kelsonbrito50/fde-financial-pipeline)**: Real-time fraud detection pipeline on Kafka and Postgres — phase 1 (infrastructure, build setup, schema) shipped, stream processing next.
+`Kafka · PostgreSQL · CI`
 
 **BabyHappy** *(private, client work)*: Production Django + React storefront for a Brazilian baby products brand.
 `13 Django apps · Cielo card payments · 179 tests at 90%+ coverage · Celery + Redis · Docker · AWS`
+
+**ecommdev-platform** *(private)*: Django platform for services, packages and invoicing.
+`501 tests · 85% coverage · CSP · rate limiting · i18n`
+
+**helpdesk** *(private)*: Java ticketing API — ownership enforced in one place, N+1 proven by counting queries.
+`Spring Boot 4.1 · Spring Security + JWT · PostgreSQL 16 · Flyway · 31 tests · Testcontainers · CI`
+
+**cloudtask-api** *(private)*: Serverless task processing in Python.
+`6 AWS Lambdas · API Gateway · DynamoDB · SQS · SNS · Terraform IaC · CI/CD`
 
 ### 📲 Connect with me
 
@@ -104,4 +110,4 @@
 
 ---
 
-Made with 🔥 [Kelson](https://www.linkedin.com/in/kelson-brito-ba922b363)!
+Made with 🔥 [Kelson](https://www.linkedin.com/in/kelsonbrito)!
