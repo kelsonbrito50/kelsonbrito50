@@ -22,6 +22,9 @@
 **[fde-financial-pipeline](https://github.com/kelsonbrito50/fde-financial-pipeline)**: Real-time fraud detection pipeline on Kafka and Postgres — phase 1 (infrastructure, build setup, schema) shipped, stream processing next.
 `Kafka · PostgreSQL · CI`
 
+**[cloudtask-api](https://github.com/kelsonbrito50/cloudtask-api)**: Serverless Task Processing API on AWS Lambda, API Gateway, DynamoDB, SQS, SNS, and CloudWatch, fully provisioned with Terraform.
+`Python 3.12 · AWS Lambda · API Gateway · DynamoDB · SQS · SNS · CloudWatch · Terraform · GitHub Actions CI/CD`
+
 ### 📲 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsonbrito)
