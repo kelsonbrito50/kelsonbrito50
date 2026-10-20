@@ -6,8 +6,8 @@ Java full stack developer who also works the blue team. I build Spring Boot back
 
 | | Project | What it shows |
 |---|---|---|
-| 🔐 | [vuln-fix-first](https://github.com/kelsonbrito50/vuln-fix-first) | Security tooling: live CISA and FIRST data, fix-by deadlines, 20 tests, v1.0.0 |
 | 🛡️ | [azure-cloud-soc-lab](https://github.com/kelsonbrito50/azure-cloud-soc-lab) | SOC in Azure: Microsoft Sentinel, Defender for Endpoint, custom KQL rules (in progress) |
+| 🔐 | [vuln-fix-first](https://github.com/kelsonbrito50/vuln-fix-first) | Security tooling: live CISA and FIRST data, fix-by deadlines, 20 tests, v1.0.0 |
 | ☕ | [banking-microservices](https://github.com/kelsonbrito50/banking-microservices) | Five Spring Boot services behind an API gateway, Kafka outbox, Angular 18 |
 | ☕ | [springboot-payment-api](https://github.com/kelsonbrito50/springboot-payment-api) | Layered Spring Boot 4.1 API, PostgreSQL, Flyway, 29 tests with Testcontainers |
 
