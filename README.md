@@ -1,6 +1,6 @@
 # Kelson Brito
 
-Java full stack developer who also works the blue team. I build Spring Boot backends that hold up, and security tools that cut the noise.
+SOC analyst and Java full stack developer. I write KQL detections and investigate incidents in Microsoft Sentinel, and I build Spring Boot backends that hold up.
 
 **Now:** [vuln-fix-first](https://github.com/kelsonbrito50/vuln-fix-first), an agent skill that turns hundreds of CVE alerts into the few you fix today, ranked with CISA KEV, EPSS and SSVC.
 
